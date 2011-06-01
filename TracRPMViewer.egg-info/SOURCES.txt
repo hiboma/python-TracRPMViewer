@@ -1,0 +1,9 @@
+setup.py
+TracRPMViewer.egg-info/PKG-INFO
+TracRPMViewer.egg-info/SOURCES.txt
+TracRPMViewer.egg-info/dependency_links.txt
+TracRPMViewer.egg-info/entry_points.txt
+TracRPMViewer.egg-info/top_level.txt
+TracRPMViewer.egg-info/trac_plugin.txt
+rpmviewer/__init__.py
+rpmviewer/rpmviewer.py
